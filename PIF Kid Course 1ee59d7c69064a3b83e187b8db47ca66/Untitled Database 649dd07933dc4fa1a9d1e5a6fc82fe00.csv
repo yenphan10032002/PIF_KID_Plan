@@ -1,0 +1,32 @@
+﻿No.,Lesson,Date,Time,Person,Content,Type,Prepare,Note
+1,Lession 1,"June 15, 2023",Morning,yen phan,Làm quen với các linh kiện cơ bản,Basic Electronic,Kit thí nghiệm,Chọn người dạy buổi đầu
+2,Lession 2,"June 15, 2023",Afternoon,yen phan,Giới thiệu về 1 số sản phẩm của CLB,Seft-study,,
+3,Lession 3,"June 20, 2023",Morning,NHI NGUYỄN HUỲNH LONG,Tìm hiểu về transistor và sử dụng breadboard,Microcontroller,Online C compiler,
+4,Lession 4,"June 20, 2023",Afternoon,NHI NGUYỄN HUỲNH LONG,Làm bài tập cắm mạch liên quan đến transistor,Seft-study,,
+5,Lession 5,"June 22, 2023",Morning,KHOA ĐỒNG THANH,"Lập trình C cơ bản buổi 1 ",Basic Electronic,Kit thí nghiệm,
+6,Lession 6,"June 22, 2023",Afternoon,KHOA ĐỒNG THANH,Làm bài tập về lập trình C cơ bản,Seft-study,,
+7,Lession 7,"June 27, 2023",Morning,Phuca,"Tìm hiểu về IC 555 ",Microcontroller,Online C compiler,
+8,Lession 8,"June 27, 2023",Afternoon,Phuca,Làm bài tập cắm mạch liên quan IC555,Seft-study,,
+9,Lession 9,"June 29, 2023",Morning,KHOA ĐỒNG THANH,Lập trình C cơ bản buổi 2,Basic Electronic,Kit thí nghiệm,
+10,Lession 10,"June 29, 2023",Afternoon,KHOA ĐỒNG THANH,"Làm bài tập về lập trình C cơ bản ",Seft-study,,
+11,Lession 11,"July 4, 2023",Morning,NHI NGUYỄN HUỲNH LONG,Tìm hiểu về IC logic gate và 74HC595,Microcontroller,Kit thí nghiệm,
+12,Lession 12,"July 4, 2023",Afternoon,NHI NGUYỄN HUỲNH LONG,Làm bài tập liên quan IC 74HC595,Microcontroller,Kit thí nghiệm,
+13,Lession 13,"July 6, 2023",Morning,Thắng Hồ Lê Quốc,"Giới thiệu về VĐK và cách sử dụng
+Làm quen với môi trường Arduino IDE 2.0",Basic Electronic,"Arduino IDE, Kit thí nghiệm",
+14,Lession 14,"July 6, 2023",Afternoon,,"Chuyên đề thảo luận về xe điện
+TS Nguyễn Chấn Việt",Seft-study,,
+15,Lession 15,"July 11, 2023",Morning,Phuca,Tổng kết nội dung ĐTCB và giải đáp thắc mắc,Basic Electronic,,
+16,Lession 16,"July 11, 2023",Afternoon,,Hàn mạch,Basic Electronic,Kit thí nghiệm,Mượn xưởng
+17,Lession 17,"July 13, 2023",Morning,Tinh,"GPIO output, tạo á hiệu ứng LED",Microcontroller,"Arduino IDE, Kit thí nghiệm",
+18,Lession 18,"July 13, 2023",Afternoon,Tinh,Làm bài tập tạo hiệu ứng LED và giới thiệu một số đề tài cuối khóa,Seft-study,,Giới thiệu đề tài cuối khóa cho các bạn có thời gian tìm hiểu và chuẩn bị
+19,Lession 19,"July 18, 2023",Morning,Tinh,"GPIO input, đọc nút nhấn, cảm biến, keypad",Microcontroller,"Arduino IDE, Kit thí nghiệm",
+20,Lession 20,"July 18, 2023",Afternoon,Tinh,Làm bài tập liên quan GPIO input,Seft-study,,
+21,Lession 21,"July 20, 2023",Morning,TUẤN PHẠM HỒ ANH,"ADC, cách sử dụng biến trở, đọc 1 số cảm biến",Microcontroller,"Arduino IDE, Kit thí nghiệm",
+22,Lession 22,"July 20, 2023",Afternoon,TUẤN PHẠM HỒ ANH,Làm bài tập liên quan đến ADC,Seft-study,,
+23,Lession 23,"July 25, 2023",Morning,TUẤN PHẠM HỒ ANH,"UART, I2C, sử dụng thư viện giao tiếp với các cảm biến sử dụng giao tiếp UART, I2C",Microcontroller,"Arduino IDE, Kit thí nghiệm",
+24,Lession 24,"July 25, 2023",Afternoon,TUẤN PHẠM HỒ ANH,"Làm bài tập liên quan UART, I2C",Seft-study,,
+25,Lession 25,"July 27, 2023",Morning,Phan Truong Giang,"Giới thiệu về blynk, làm một số ứng dụng IoT đơn giản ",Microcontroller,"Arduino IDE, Kit thí nghiệm",
+26,Lession 26,"July 27, 2023",Afternoon,Phan Truong Giang,Làm bài tập liên quan Blynk,Seft-study,,
+27,Lession 27,"August 1, 2023",Morning,Phan Truong Giang,Tổng hợp kiến thức lập trình VDK và giải đáp thắc mắc,Microcontroller,"Arduino IDE, Kit thí nghiệm",
+28,Lession 28,"August 1, 2023",Afternoon,,"Hoàn thành project cuối khóa ",Seft-study,,Ở nhà hoặc hẹn lịch lên lab 304B1
+33,Contest,"August 5, 2023",Morning,,Cuộc thi cuối khóa,Contest,,

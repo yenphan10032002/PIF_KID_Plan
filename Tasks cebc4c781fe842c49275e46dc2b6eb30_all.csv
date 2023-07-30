@@ -1,0 +1,61 @@
+﻿Task name,Assign,Due,Is Current Sprint,Project,Sprint,Status
+Planning course,"yen phan, Nhat Minh Phung",,,PIF Kid Course (https://www.notion.so/PIF-Kid-Course-1ee59d7c69064a3b83e187b8db47ca66?pvs=21),,Done
+ĐTCB - 01 Làm quen với linh kiện điện tử,"yen phan, Nhat Minh Phung",,,PIF Kid Course (https://www.notion.so/PIF-Kid-Course-1ee59d7c69064a3b83e187b8db47ca66?pvs=21),,Done
+"ĐTCB - 02 Transistor ",NHI NGUYỄN HUỲNH LONG,,,PIF Kid Course (https://www.notion.so/PIF-Kid-Course-1ee59d7c69064a3b83e187b8db47ca66?pvs=21),,Done
+ĐTCB - 03 IC 555,Phuca,,,PIF Kid Course (https://www.notion.so/PIF-Kid-Course-1ee59d7c69064a3b83e187b8db47ca66?pvs=21),,Done
+MCU - 01 C Basic,KHOA ĐỒNG THANH,,,PIF Kid Course (https://www.notion.so/PIF-Kid-Course-1ee59d7c69064a3b83e187b8db47ca66?pvs=21),,Done
+ĐTCB - 04 IC logic & 74HC595,NHI NGUYỄN HUỲNH LONG,,,PIF Kid Course (https://www.notion.so/PIF-Kid-Course-1ee59d7c69064a3b83e187b8db47ca66?pvs=21),,Done
+MCU - 02 ESP32 & Arduino IDE,Thắng Hồ Lê Quốc,,,PIF Kid Course (https://www.notion.so/PIF-Kid-Course-1ee59d7c69064a3b83e187b8db47ca66?pvs=21),,Done
+MCU - 03 GPIOs,Tinh,,,PIF Kid Course (https://www.notion.so/PIF-Kid-Course-1ee59d7c69064a3b83e187b8db47ca66?pvs=21),,Done
+ĐTCB - 05 Tổng hợp & Giải đáp thắc mắc,Phuca,,,PIF Kid Course (https://www.notion.so/PIF-Kid-Course-1ee59d7c69064a3b83e187b8db47ca66?pvs=21),,Done
+MCU - 02 ESP32 & Arduino IDE,,,,,,Not Started
+MCU - 03 GPIOs,,,,,,Not Started
+"MCU - 04 ADC, UART, I2C",,,,,,Not Started
+"MCU - 04 ADC, UART, I2C",TUẤN PHẠM HỒ ANH,,,PIF Kid Course (https://www.notion.so/PIF-Kid-Course-1ee59d7c69064a3b83e187b8db47ca66?pvs=21),,Done
+MCU - 05 Blynk,Phan Truong Giang,,,PIF Kid Course (https://www.notion.so/PIF-Kid-Course-1ee59d7c69064a3b83e187b8db47ca66?pvs=21),,In Progress
+….,Thanh Tâm Nguyễn,"February 21, 2023",,,,In Progress
+Add Projects templates to Notion,yen phan,"February 27, 2023",,,,Done
+Message Queue + Example,,"September 3, 2023",,RTOS (https://www.notion.so/RTOS-b4d352d91e3f4f0cb05890c8372ce969?pvs=21),,Reviewing
+Semaphore,,,,RTOS (https://www.notion.so/RTOS-b4d352d91e3f4f0cb05890c8372ce969?pvs=21),,In Progress
+Kiem dinh LCD,yen phan,"February 13, 2023",,,,Done
+Interrupt in RTOS,,,,RTOS (https://www.notion.so/RTOS-b4d352d91e3f4f0cb05890c8372ce969?pvs=21),,In Progress
+PID Training Basic,,,,Motor Control Theory (https://www.notion.so/Motor-Control-Theory-5feccecdb00043ea9698e12ecea95427?pvs=21),,Done
+QT GUI for monitoring and debugging,,,,Motor Control Theory (https://www.notion.so/Motor-Control-Theory-5feccecdb00043ea9698e12ecea95427?pvs=21),,Done
+Protobuf for data  transfer,,"September 3, 2023",,Motor Control Theory (https://www.notion.so/Motor-Control-Theory-5feccecdb00043ea9698e12ecea95427?pvs=21),,Done
+Fuzzy Logic Controller Basic,,,,Motor Control Theory (https://www.notion.so/Motor-Control-Theory-5feccecdb00043ea9698e12ecea95427?pvs=21),,Done
+find the root cause of slow up/down speed,,,,NAS (https://www.notion.so/NAS-c60560d5809d4800be57f3dd314d5dbc?pvs=21),,Done
+Design the PIF Coding Convention,,,,[Training] Coding convention (https://www.notion.so/Training-Coding-convention-7085d42a6b0640aca3d3653cbb240bf4?pvs=21),,In Progress
+Measure QingKe LPM,,,,,,In Progress
+openvpn unstable,,,,NAS (https://www.notion.so/NAS-c60560d5809d4800be57f3dd314d5dbc?pvs=21),,Done
+wireguard vpn,,,,NAS (https://www.notion.so/NAS-c60560d5809d4800be57f3dd314d5dbc?pvs=21),,Reviewing
+GPIO,Tinh,"March 12, 2023",,QingKe RISC-V2A (https://www.notion.so/QingKe-RISC-V2A-22b56d36bb1a4552bd29b8446da3bc3f?pvs=21),,Reviewing
+USART,Tinh,"March 16, 2023",,QingKe RISC-V2A (https://www.notion.so/QingKe-RISC-V2A-22b56d36bb1a4552bd29b8446da3bc3f?pvs=21),,Reviewing
+I2C,Tinh,"March 24, 2023",,QingKe RISC-V2A (https://www.notion.so/QingKe-RISC-V2A-22b56d36bb1a4552bd29b8446da3bc3f?pvs=21),,Reviewing
+Porting RTOS from original source,,,,RTOS (https://www.notion.so/RTOS-b4d352d91e3f4f0cb05890c8372ce969?pvs=21),,Done
+Auto update schedule,,,,PIF Bot (https://www.notion.so/PIF-Bot-ad39975df2264e829e0351ec748c3df7?pvs=21),,Done
+Update script,,,,PIF Bot (https://www.notion.so/PIF-Bot-ad39975df2264e829e0351ec748c3df7?pvs=21),,Done
+TIMER,Tinh,"March 19, 2023",,QingKe RISC-V2A (https://www.notion.so/QingKe-RISC-V2A-22b56d36bb1a4552bd29b8446da3bc3f?pvs=21),,Reviewing
+IMU,,"March 18, 2023 → March 29, 2023",,Augmented Cane (https://www.notion.so/Augmented-Cane-428b13f016ea481eba3e1ead5b5b1e8a?pvs=21),,In Progress
+SYSTEM TIMER,Tinh,"March 19, 2023",,QingKe RISC-V2A (https://www.notion.so/QingKe-RISC-V2A-22b56d36bb1a4552bd29b8446da3bc3f?pvs=21),,Reviewing
+Build lại thư viện PIF,yen phan,,,[Training] Altium - Basic (https://www.notion.so/Training-Altium-Basic-a4f27fb64679496d95220d06b8f4fa5c?pvs=21),,In Progress
+Build dev kit CH32V003,yen phan,,,[Training] Altium - Basic (https://www.notion.so/Training-Altium-Basic-a4f27fb64679496d95220d06b8f4fa5c?pvs=21),,Not Started
+05 NRF_LOG_RTT,,,,Nordic NRF52832 (https://www.notion.so/Nordic-NRF52832-e41789a2c76c48989c7ed60b2850667d?pvs=21),,Done
+LPM,Tinh,"March 28, 2023",,QingKe RISC-V2A (https://www.notion.so/QingKe-RISC-V2A-22b56d36bb1a4552bd29b8446da3bc3f?pvs=21),,In Progress
+Custom project source,Nhat Minh Phung,,,ESP32/ESP8266 (https://www.notion.so/ESP32-ESP8266-e2edc50162794d5ba08e2c845cd14f94?pvs=21),,Done
+"UART, I2C, SPI, ADC, PWM",Nhat Minh Phung,,,ESP32/ESP8266 (https://www.notion.so/ESP32-ESP8266-e2edc50162794d5ba08e2c845cd14f94?pvs=21),,Done
+Connect WiFi,Nhat Minh Phung,,,ESP32/ESP8266 (https://www.notion.so/ESP32-ESP8266-e2edc50162794d5ba08e2c845cd14f94?pvs=21),,Done
+Send SSID and password throught web,Nhat Minh Phung,,,ESP32/ESP8266 (https://www.notion.so/ESP32-ESP8266-e2edc50162794d5ba08e2c845cd14f94?pvs=21),,Done
+HTTP server,Nhat Minh Phung,,,ESP32/ESP8266 (https://www.notion.so/ESP32-ESP8266-e2edc50162794d5ba08e2c845cd14f94?pvs=21),,Done
+Smart config,Nhat Minh Phung,,,ESP32/ESP8266 (https://www.notion.so/ESP32-ESP8266-e2edc50162794d5ba08e2c845cd14f94?pvs=21),,Done
+HTTP protocol,Nhat Minh Phung,,,ESP32/ESP8266 (https://www.notion.so/ESP32-ESP8266-e2edc50162794d5ba08e2c845cd14f94?pvs=21),,Done
+MQTT protocol,Nhat Minh Phung,,,ESP32/ESP8266 (https://www.notion.so/ESP32-ESP8266-e2edc50162794d5ba08e2c845cd14f94?pvs=21),,Done
+Build tab shortkeys Altium,"yen phan, Phan Truong Giang",,,[Training] Altium - Basic (https://www.notion.so/Training-Altium-Basic-a4f27fb64679496d95220d06b8f4fa5c?pvs=21),,In Progress
+Design circuit response requirement,,,,Smart-ruler (https://www.notion.so/Smart-ruler-0dd26044e0124438be7e5b3f165298d7?pvs=21),,Done
+Layout a beautiful PCB,,,,Smart-ruler (https://www.notion.so/Smart-ruler-0dd26044e0124438be7e5b3f165298d7?pvs=21),,In Progress
+Verification circuit,,,,Smart-ruler (https://www.notion.so/Smart-ruler-0dd26044e0124438be7e5b3f165298d7?pvs=21),,Done
+Verification the final PCB,,,,Smart-ruler (https://www.notion.so/Smart-ruler-0dd26044e0124438be7e5b3f165298d7?pvs=21),,Not Started
+Nội dung 0: Introduction,,"June 12, 2023 → June 17, 2023",,IC Design (https://www.notion.so/IC-Design-9b5ceeb228534edcaf2b5d88081e6e6d?pvs=21),,Done
+Nội dung 1: Basic CMOS,,"June 19, 2023 → July 1, 2023",,IC Design (https://www.notion.so/IC-Design-9b5ceeb228534edcaf2b5d88081e6e6d?pvs=21),,Done
+Nội dung 2: Logic Gate,,"July 3, 2023 → July 8, 2023",,IC Design (https://www.notion.so/IC-Design-9b5ceeb228534edcaf2b5d88081e6e6d?pvs=21),,Done
+,,,,,,Not Started
+Nội dung 3: Thiết kế schematic cơ bản,,,,IC Design (https://www.notion.so/IC-Design-9b5ceeb228534edcaf2b5d88081e6e6d?pvs=21),,In Progress
